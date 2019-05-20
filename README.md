@@ -1,3 +1,5 @@
+This tools is useles with the new [PrusaSlicer](https://www.prusa3d.com/prusaslicer/). Use that instead!
+
 # color switcher
 
 Simple script for adding color changes to gcode
